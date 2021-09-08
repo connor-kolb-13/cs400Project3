@@ -1,11 +1,5 @@
 // --== CS400 File Header Information ==--
 // Name: Connor Kolb
-// Email: cwkolb@wisc.edu
-// Team: KA
-// Role: Data Wrangler 1
-// TA: Sid
-// Lecturer: Gary Dahl
-// Notes to Grader: n/a
 
 import java.io.File;
 import java.io.FileNotFoundException;
